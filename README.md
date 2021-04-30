@@ -1,0 +1,3 @@
+- Hi, I’m Omar Miranda
+- I’m interested in urban planning and SIG
+- I’m currently learning python and R
